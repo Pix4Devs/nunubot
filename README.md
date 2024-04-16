@@ -5,6 +5,7 @@ Whenever someone joins a voice call, Nunu would also like to join.
 When the person that joined the call starts to talk, Nunu will play a pre-recorded audio sound. Once finalized, Nunu would like to leave the voice call.
 
 Whenever someone else joins the call, Nunu would repeat the process.
+Free to use for everyone!
 
 > **Nunu is completely clustered**
 Meaning that it shares load distribution across multiple child processes.
