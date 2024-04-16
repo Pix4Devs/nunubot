@@ -10,7 +10,7 @@ Whenever someone else joins the call, Nunu would repeat the process.
 Meaning that it shares load distribution across multiple child processes.
 
 **SEE IN ACTION**<br>
-<a href="https://www.youtube.com/watch?v=0H-ireCbZEo&feature=youtu.be">Teaser</a>
+<a href="https://www.youtube.com/watch?v=nkHX2D4GjF0">Teaser</a>
 
 #### Installation
 Requires libsodium being installed on your machine before performing any installation command(s).
