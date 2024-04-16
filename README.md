@@ -9,6 +9,9 @@ Whenever someone else joins the call, Nunu would repeat the process.
 > **Nunu is completely clustered**
 Meaning that it shares load distribution across multiple child processes.
 
+**SEE IN ACTION**<br>
+<a href="https://www.youtube.com/watch?v=0H-ireCbZEo&feature=youtu.be">Teaser</a>
+
 #### Installation
 Requires libsodium being installed on your machine before performing any installation command(s).
 
