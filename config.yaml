@@ -1,0 +1,9 @@
+bot:
+  token: "" # bot token
+  id: "" # bot client id
+  logo: "https://pix4.dev/logo.png" 
+  guildId: "" # guild id to listen vc states specifically on
+  mp3File: "demo.mp3" # note: you have to put your feed in '/feed' folder
+
+environment:
+  runtime: "js" # when using ts-node change this to ts, not required as it is compiled already
